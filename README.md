@@ -1,4 +1,2 @@
 # alx-pre_course
-ALX pre-course repo
-this project is required from the git task
-this is the first update to this file
+I'm Now an ALX Student, this is my first repository as a full-stack engineer.
