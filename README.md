@@ -1,2 +1,2 @@
-# alx_pre_course
-I'm Now an ALX Student, this is my first repository as a full-stack engineer.
+# alx-pre_course
+My first readme
